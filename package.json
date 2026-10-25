@@ -3,11 +3,11 @@
   "private": true,
   "homepage": "https://videos.felixs.dev/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/videos/issues"
+    "url": "https://github.com/trueberryless/videos/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/videos.git"
+    "url": "https://github.com/trueberryless/videos.git"
   },
   "license": "MIT",
   "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",
