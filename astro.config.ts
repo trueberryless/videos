@@ -41,7 +41,7 @@ export default defineConfig({
           label: "BlueSky",
         },
         {
-          href: "https://github.com/trueberryless-org/videos",
+          href: "https://github.com/trueberryless/videos",
           icon: "github",
           label: "GitHub",
         },
