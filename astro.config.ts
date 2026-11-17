@@ -36,7 +36,7 @@ export default defineConfig({
       ],
       social: [
         {
-          href: "https://bsky.app/profile/trueberryless.org",
+          href: "https://bsky.app/profile/felixs.dev",
           icon: "blueSky",
           label: "BlueSky",
         },
